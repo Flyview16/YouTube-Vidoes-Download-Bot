@@ -1,5 +1,0 @@
-# .gitignore
-.env
-.env.*
-*.env
-__pycache__/
